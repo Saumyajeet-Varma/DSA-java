@@ -43,6 +43,36 @@ Leetcode Profile - [Saumyajeet_Varma](https://leetcode.com/u/Saumyajeet_Varma/)
         </a>
       </td>
     </tr>
+    <!-- ! 125__________________________________________________________ -->
+    <tr>
+      <td>125. Valid Palindrome</td>
+      <td>
+        <a href="https://leetcode.com/problems/valid-palindrome/">
+          https://leetcode.com/problems/valid-palindrome/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0125. Valid Palindrome/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 167__________________________________________________________ -->
+    <tr>
+      <td>167. Two Sum II - Input Array is Sorted</td>
+      <td>
+        <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted">
+          https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0009. Palindrome Number/">
+          Solution
+        </a>
+      </td>
+    </tr>
     <!-- ! 287__________________________________________________________ -->
     <tr>
       <td>287. Find the Duplicate Number</td>
