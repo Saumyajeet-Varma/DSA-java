@@ -13,6 +13,7 @@ Leetcode Profile - [Saumyajeet_Varma](https://leetcode.com/u/Saumyajeet_Varma/)
   </thead>
 
   <tbody>
+   <!-- ! 01__________________________________________________________ -->
     <tr>
       <td>1. Two Sum</td>
       <td>
@@ -23,6 +24,36 @@ Leetcode Profile - [Saumyajeet_Varma](https://leetcode.com/u/Saumyajeet_Varma/)
       <td>Easy</td>
       <td>
         <a href="./platforms/Leetcode/0001.%20Two%20Sum/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 09__________________________________________________________ -->
+    <tr>
+      <td>9. Palindrome Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/palindrome-number/">
+          https://leetcode.com/problems/palindrome-number/
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="./platforms/LeetCode/0009. Palindrome Number/">
+          Solution
+        </a>
+      </td>
+    </tr>
+    <!-- ! 287__________________________________________________________ -->
+    <tr>
+      <td>287. Find the Duplicate Number</td>
+      <td>
+        <a href="https://leetcode.com/problems/find-the-duplicate-number">
+          https://leetcode.com/problems/find-the-duplicate-number        
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="./platforms/LeetCode/0009. Palindrome Number/">
           Solution
         </a>
       </td>
