@@ -1,5 +1,5 @@
 // Bubble Sort
-// ! Time Limit Exceed
+// ! Time Limit Exceed O(n^2)
 class Solution1 {
     public int[] sortArray(int[] nums) {
         
