@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class SolutionI {
+class Solution1 {
     public int findDuplicate(int[] nums) {
         
         int n = nums.length;
