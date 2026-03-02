@@ -1,6 +1,6 @@
 // Selection Sort
 // ! Time Limit Exceed O(n^2)
-class Solution {
+class Solution2 {
     public int[] sortArray(int[] nums) {
         
         int n = nums.length;
